@@ -1,0 +1,3 @@
+[submodule "mapf-visualizer"]
+	path = mapf-visualizer
+	url = https://github.com/Kei18/mapf-visualizer.git

@@ -1,0 +1,15 @@
+name: sotsuken1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - spyder
+  - numpy
+  - tesseract
+  - pyserial
+  - numba
+  - matplotlib[version='>=3.7,<3.9']
+  - pillow[version='>=10,<11']
+  - tk
+prefix: /opt/anaconda3/envs/sotsuken1

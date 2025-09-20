@@ -1,0 +1,2 @@
+WDG+R+C+T+BP with AStar            : Timeout,-1,120,141061,38751430,1905,1812,1870,
+Failed to find solutions in Run 0

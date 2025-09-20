@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Conda/venv
+.env/
+.venv/
+venv/
+env/
+conda-env/
+*.conda
+
+# C/C++ / CMake build（EECBS）
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# mapf-visualizer のアプリ本体（巨大バイナリは除外）
+mapf-visualizer/bin/
+
+# 実験生成物
+out_*/
+*.png
+*.gif
+*.log
+paths_raw.txt
+for_visualizer_time.txt
+stats.csv
+
+# エディタ
+.vscode/
+.idea/
+
+EECBS.zip

@@ -1,0 +1,1 @@
+WDG+R+C+T+BP with AStar            : Succeed,413,0.003754,4,1115,413,405,413,
